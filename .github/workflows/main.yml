@@ -1,4 +1,4 @@
-۰name: kirl
+name: kirl
 
 on:
   workflow_dispatch:
